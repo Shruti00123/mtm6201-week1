@@ -1,27 +1,42 @@
-.image{
+.image {
     max-width: 150px;
     height: auto;
     float: left;
     margin-right: 10px;
 }
-.list{
-    background-color:  rgb(214, 120, 120);
+
+.list {
+    background-color: rgb(214, 120, 120);
     padding-bottom: 5px;
+    padding-left: 5px;
 }
-dt{
+
+dt {
     font-weight: bold;
     font-size: 1.15rem;
     padding-top: 10px;
 }
-dd{
+
+dd {
     margin: 0;
 }
-.wrapper{
+
+.wrapper {
     background-color: rgb(239, 207, 216);
     padding-bottom: 50px;
-    
+
+
 }
 
-h1{
+h1 {
     background-color: rgb(214, 120, 120);
+    padding-left: 5px;
+}
+
+body {
+    font-size: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: rgb(239, 207, 216);
+
 }
